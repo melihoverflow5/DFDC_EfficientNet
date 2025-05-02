@@ -20,7 +20,7 @@ Since the entire project is implemented within a **Google Colab notebook**, all 
 
 ```bash
 pip install tensorflow matplotlib scikit-learn seaborn numpy
-
+```
 
 ## **Dataset**
 
