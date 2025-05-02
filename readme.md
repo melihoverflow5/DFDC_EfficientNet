@@ -51,3 +51,8 @@ To use this dataset with Google Colab, download it from Kaggle then upload to Go
 In this project, a deep learning model for deepfake detection was developed using EfficientNetB3 as the backbone network. The model was fine-tuned on a dataset of real and fake images to classify them effectively. The results demonstrate strong performance, with an AUC-ROC of **0.9315**, an accuracy of **92.1%**, and an F1 Score of **95.46%**, indicating that the model is capable of distinguishing between real and manipulated images with high precision.
 
 The project utilized mixed precision training to speed up computation and reduce memory usage, allowing the model to train efficiently on the available hardware. The training process was monitored using TensorBoard, which provided insightful metrics, and the best model was saved and made available for download.
+
+## **License**
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
